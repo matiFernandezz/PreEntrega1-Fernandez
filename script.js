@@ -1,4 +1,5 @@
 //Usuario ejemplo 
+//Fijo un usuario unico a modo de ejemplo 
 let nombreUsuario = "tutorCoderhouse";
 let contraseñaUsuario = "1234";
 let ingreso = false;
