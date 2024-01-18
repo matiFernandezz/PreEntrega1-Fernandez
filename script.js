@@ -1,5 +1,5 @@
 //Usuario ejemplo 
-//Fijo un usuario unico a modo de ejemplo 
+//Fijo un usuario único a modo de ejemplo 
 let nombreUsuario = "tutorCoderhouse";
 let contraseñaUsuario = "1234";
 let ingreso = false;
@@ -40,7 +40,7 @@ if (ingreso){
     alert("Muchas gracias por confiar en nosotros.")
 }
 
-//Declaracion de Funcion
+//Declaración de Función
 function costoViaje(cant, viaje){
     if (viaje == 1){
      return cant*300000;  
